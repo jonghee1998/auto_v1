@@ -10,7 +10,7 @@ from lib.API.kr_trading import *
 from lib.stock.interested_stock import create_stock_dict
 ############################################ Session State ############################################
 st.session_state.load = True
-if "stock" not in st.session_state:
+if 'stock' not in st.session_state:
     st.session_state.stock = None
 
 # Add a heading

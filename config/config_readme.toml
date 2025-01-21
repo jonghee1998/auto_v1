@@ -1,0 +1,12 @@
+[sections]
+home_page = "Homepage"
+current_hold = "Current Hold"
+stock_info = "Stock Info"
+stock_prediction = "Stock Prediction"
+
+[section_text]
+home_page = "Homepage"
+current_hold = "Current Hold"
+stock_info = "Stock Info"
+stock_prediction = "Stock Prediction"
+

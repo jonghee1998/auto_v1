@@ -10,7 +10,7 @@ import FinanceDataReader as fdr
 
 ############################################ Session State ############################################
 st.session_state.load = True
-if "stock" not in st.session_state:
+if 'stock' not in st.session_state:
     st.session_state.stock = None
 
 def current_hold_page():
